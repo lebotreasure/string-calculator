@@ -1,10 +1,11 @@
 {
   "name": "string-calculator-kata-template-node",
   "version": "1.0.0",
-  "description": "A string calculator kata template for node",
-  "main": "./src/calculator.js",
+  "description": "100 doors to toggle through",
+  "main": "./src/doors.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start":"node doors.js"
   },
   "author": "",
   "license": "ISC",
